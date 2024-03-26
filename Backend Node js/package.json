@@ -1,0 +1,21 @@
+{
+  "name": "js-blog-crud-with-auth",
+  "version": "1.0.0",
+  "description": "Blog crud with auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^10.2.0",
+    "mongoose": "^5.9.1"
+  }
+}
